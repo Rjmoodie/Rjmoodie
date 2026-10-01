@@ -1,6 +1,6 @@
 ### Roderick Moodie
 
-I work on CLO portfolios at CIFC (waterfalls, OC/IC tests, ratings data, trustee reconciliation) and I build the tools around that work. Before CIFC I spent two years on BlackRock's Magnetite CLO platform.
+I work on CLO portfolios at CIFC (waterfalls, OC/IC tests, ratings data, trustee reconciliation) and I build the tools around that work. Before CIFC I spent two years at BlackRock, including the Magnetite CLO platform.
 
 **What I work with:** Python · SQL · TypeScript · VBA · Intex · PostgreSQL · Docker
 
