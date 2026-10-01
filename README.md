@@ -4,7 +4,7 @@ I work on CLO portfolios at CIFC (waterfalls, OC/IC tests, ratings data, trustee
 
 **What I work with:** Python · SQL · TypeScript · VBA · Intex · PostgreSQL · Docker
 
-**What you'll find here**
+**What I work on**
 - Structured credit analytics: cash flow, coverage-test and stress models
 - Data and automation tools: scheduled jobs, reconciliation, reporting pipelines
 - Product builds for early-stage ventures (TypeScript, Supabase)
